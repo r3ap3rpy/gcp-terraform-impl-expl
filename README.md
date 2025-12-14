@@ -8,3 +8,10 @@ Dependencies:
 - terraform
 - gcloud cli
 
+To setup you need to run the following commands.
+
+``` bash
+terraform init
+terraform plan
+terraform apply --auto-approve
+```
